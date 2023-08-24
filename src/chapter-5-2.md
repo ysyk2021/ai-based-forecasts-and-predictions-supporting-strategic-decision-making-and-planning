@@ -1,5 +1,3 @@
-Time Series Forecasting and Regression Analysis
-==============================================================================================================
 
 Time series forecasting and regression analysis are two of the most commonly used AI-based techniques for forecasting and prediction. This chapter provides an overview of these techniques in more detail.
 

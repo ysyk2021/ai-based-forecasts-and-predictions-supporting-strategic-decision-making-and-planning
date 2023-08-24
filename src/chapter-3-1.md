@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Business Forecasting and Prediction
-==============================================================================================================================================================
 
 Artificial intelligence (AI) has become an indispensable tool for businesses looking to improve their forecasting and prediction capabilities. In this chapter, we explore the different types of AI and their applications in business forecasting and prediction.
 

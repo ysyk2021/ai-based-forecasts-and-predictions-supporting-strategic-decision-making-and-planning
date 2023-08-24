@@ -1,5 +1,3 @@
-Data Collection and Analysis for Business Forecasting and Prediction
-====================================================================
 
 Overview of Data Collection and Analysis for Business Forecasting and Prediction
 --------------------------------------------------------------------------------

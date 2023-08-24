@@ -1,5 +1,3 @@
-Future Directions and Challenges
-================================
 
 As AI-based forecasting and prediction continue to evolve, businesses must stay up-to-date with emerging trends and technologies, consider opportunities and challenges associated with scaling up these techniques, and consider implications for the future of supporting strategic decision-making and planning.
 

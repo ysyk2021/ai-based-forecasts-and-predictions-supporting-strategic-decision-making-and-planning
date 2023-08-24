@@ -1,5 +1,3 @@
-Machine Learning and Neural Networks
-===================================================================================================
 
 Machine learning (ML) and neural networks (NN) are AI-based techniques that are widely used in forecasting and prediction. In this chapter, we will explore these techniques and their applications in business.
 

@@ -1,5 +1,3 @@
-Implications for the Future of Supporting Strategic Decision-Making and Planning
-==================================================================================================================
 
 As AI-based forecasting and prediction techniques continue to evolve, businesses will face new challenges and opportunities. This chapter discusses some of the future directions and challenges related to AI-based forecasting and prediction in supporting strategic decision-making and planning.
 

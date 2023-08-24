@@ -1,5 +1,3 @@
-Natural Language Processing and Text Mining
-==========================================================================================================
 
 Natural language processing (NLP) and text mining are AI-based techniques that can be used to analyze and extract insights from unstructured data such as text. In this chapter, we will discuss these techniques in more detail.
 

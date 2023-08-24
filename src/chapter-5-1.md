@@ -1,5 +1,3 @@
-Overview of AI-Based Forecasting and Prediction Techniques and Strategies
-========================================================================================================================================
 
 There are numerous AI-based forecasting and prediction techniques and strategies that businesses can use to support strategic decision-making and planning. This chapter provides an overview of some of the most commonly used techniques and strategies.
 

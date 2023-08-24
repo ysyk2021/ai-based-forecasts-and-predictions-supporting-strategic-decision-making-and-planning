@@ -1,5 +1,3 @@
-Traditional Approaches to Business Forecasting and Prediction
-================================================================================================================
 
 Business forecasting and prediction have been used for decades to help companies make informed decisions and develop strategic plans. This chapter provides an overview of some traditional approaches to business forecasting and prediction.
 
